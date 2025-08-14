@@ -1,0 +1,6 @@
+equity_calc.cpp
+setup.py
+equity_calc.egg-info/PKG-INFO
+equity_calc.egg-info/SOURCES.txt
+equity_calc.egg-info/dependency_links.txt
+equity_calc.egg-info/top_level.txt
